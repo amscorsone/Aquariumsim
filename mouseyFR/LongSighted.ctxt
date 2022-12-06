@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LongSighted
+comment0.text=\nmove\ randomly\ until\ you\ see\ the\ cheese\ no\ matter\ how\ far\ away\nmake\ list\ of\ all\ empty\ neighbors\ and\ if\ there\ is\ nothing\ in\ the\ way,\ meaning\ \nall\ of\ the\ spaces\ in\ between\ the\ cheese\ and\ mouse\ are\ empty\ the\ mouse\ will\ teleport\ to\ the\ncheese,\ this\ means\ you\ start\ with\ dumb\ mouse\ code\ and\ then\ implemnet\ something\ to\ \nnotice\ when\ the\ cheese\ is\ within\ the\ direct\ path\ and\ then\ use\ the\ teleport\ mouse\ code\ \n\ @author\ Amalia\ Scorsone\n\ @date\ March\ 8\ 2022\ \n
+comment1.params=
+comment1.target=LongSighted()
+comment1.text=\ Constructs\ a\ piece\ of\ cheese\ at\ the\ specified\ location\ in\n\ \ a\ grid.\n
+comment2.params=
+comment2.target=edu.kzoo.grid.Location\ nextLocation()
+numComments=3

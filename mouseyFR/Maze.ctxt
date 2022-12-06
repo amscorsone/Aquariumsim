@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Maze
+comment0.text=\n\ sets\ up\ the\ intiatial\ objects\ in\ the\ maze\ aka\ the\ start\ location\ of\ the\ cheese\ and\ mouse\ and\ where\ the\ mouse\ should\ hopefully\ end\ up\n\n\ @Amalia\n\ @March\ 13\ 2022\n
+comment1.params=rows\ cols
+comment1.target=Maze(int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Maze\n
+comment2.params=startLoc
+comment2.target=void\ setStartLoc(edu.kzoo.grid.Location)
+comment2.text=\n\ THis\ sets\ the\ location\ fo\ the\ mouse\ \n\n\ @param\ the\ starting\ locaiton\ of\ the\ mouse\ \n\ @return\ void\n
+comment3.params=endLoc
+comment3.target=void\ setFinishLoc(edu.kzoo.grid.Location)
+comment3.text=\n\ This\ is\ how\ the\ cheese\ gets\ set\ into\ the\ maze\n\n\ @param\ the\ end\ location\ of\ the\ mouse\n\ @return\ void\n
+comment4.params=
+comment4.target=edu.kzoo.grid.Location\ getStartLoc()
+comment4.text=\n\ get\ the\ starting\ location\ of\ the\ mouse\ \n\ \n\ @return\ Location\ that\ the\ mouse\ is\ starting\n
+comment5.params=
+comment5.target=edu.kzoo.grid.Location\ getFinishLoc()
+comment5.text=\n\ get\ the\ ending\ location\ of\ the\ mouse\ or\ the\ location\ of\ the\ cheese\ \n\ \n\ @return\ Location\ that\ the\ cheese\ is\ at\ -\ aka\ where\ the\ mouse\ shoudl\ end\ up\ \n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Mouse
+comment0.text=\n\ \ Mouse\ in\ a\ Maze\ Program\:<br>\n\n\ \ \ \ A\ Cheese\ object\ represents\ a\ piece\ of\ cheese\ in\ the\ maze.\n\n\ \ @author\ Amalia\ Scorsone\n\ \ @version\ 5\ March\ 2022\n
+comment1.params=
+comment1.target=Mouse()
+comment1.text=\ Constructs\ a\ piece\ of\ cheese\ at\ the\ specified\ location\ in\n\ \ a\ grid.\n
+comment2.params=
+comment2.target=Maze\ maze()
+comment2.text=\ Recasts\ the\ grid\ so\ it\ displays\ the\ Maze\ class\n\n
+comment3.params=
+comment3.target=edu.kzoo.grid.Location\ nextLocation()
+comment3.text=\ Finds\ this\ mouses's\ next\ location.\n\ \ returns\ the\ location\ that\ it\ is\ going\ to\ move\ to\ \n
+comment4.params=
+comment4.target=java.util.ArrayList\ emptyNeighbors()
+comment4.text=\ Finds\ empty\ locations\ adjacent\ to\ the\ mouse\ .\n\ \ @return\ \ \ \ an\ ArrayList\ containing\ neighboring\ empty\ locations\n
+comment5.params=
+comment5.target=void\ move()
+comment5.text=\ Moves\ the\ Mouse\ in\ its\ environment.\n
+numComments=6

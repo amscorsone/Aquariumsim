@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TeleMouse
+comment0.text=\n\ will\ "teleport"\ directly\ to\ the\ location\ of\ the\ cheese\ (the\ "beam\ me\ up"\ mouse).\n\n\ @author\ Amalia\ Scorsone\n\ @date\ March\ 8\ 2022\ \n
+comment1.params=
+comment1.target=TeleMouse()
+comment1.text=\ Constructs\ a\ piece\ of\ cheese\ at\ the\ specified\ location\ in\n\ \ a\ grid.\n
+comment2.params=
+comment2.target=edu.kzoo.grid.Location\ nextLocation()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+numComments=3
