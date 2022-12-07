@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=DarterFish
+comment0.text=\n\ Write\ a\ description\ of\ class\ simpleFish\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=env\ loc
+comment1.target=DarterFish(edu.kzoo.grid.Grid,\ edu.kzoo.grid.Location)
+comment1.text=\ Constructs\ a\ fish\ at\ the\ specified\ location\ in\ a\ given\ environment.\n\ \ The\ Fish\ is\ assigned\ a\ random\ direction\ and\ random\ color.\n\ \ (Precondition\:\ parameters\ are\ non-null;\ <code>loc</code>\ is\ valid\n\ \ for\ <code>env</code>.)\n\ \ @param\ env\ \ \ \ environment\ (grid)\ in\ which\ fish\ will\ live\n\ \ @param\ loc\ \ \ \ location\ of\ the\ new\ fish\ in\ <code>env</code>\n
+comment2.params=env\ loc\ dir
+comment2.target=DarterFish(edu.kzoo.grid.Grid,\ edu.kzoo.grid.Location,\ edu.kzoo.grid.Direction)
+comment2.text=\ Constructs\ a\ fish\ at\ the\ specified\ location\ and\ direction\ in\ a\n\ \ given\ environment.\ \ The\ Fish\ is\ assigned\ a\ random\ color.\n\ \ (Precondition\:\ parameters\ are\ non-null;\ <code>loc</code>\ is\ valid\n\ \ for\ <code>env</code>.)\n\ \ @param\ env\ \ \ \ environment\ (grid)\ in\ which\ fish\ will\ live\n\ \ @param\ loc\ \ \ \ location\ of\ the\ new\ fish\ in\ <code>env</code>\n\ \ @param\ dir\ \ \ \ direction\ the\ new\ fish\ is\ facing\n
+comment3.params=env\ loc\ dir\ col
+comment3.target=DarterFish(edu.kzoo.grid.Grid,\ edu.kzoo.grid.Location,\ edu.kzoo.grid.Direction,\ java.awt.Color)
+comment3.text=\ Constructs\ a\ fish\ of\ the\ specified\ color\ at\ the\ specified\ location\n\ \ and\ direction.\n\ \ (Precondition\:\ parameters\ are\ non-null;\ <code>loc</code>\ is\ valid\n\ \ for\ <code>env</code>.)\n\ \ @param\ env\ \ \ \ environment\ (grid)\ in\ which\ fish\ will\ live\n\ \ @param\ loc\ \ \ \ location\ of\ the\ new\ fish\ in\ <code>env</code>\n\ \ @param\ dir\ \ \ \ direction\ the\ new\ fish\ is\ facing\n\ \ @param\ col\ \ \ \ color\ of\ the\ new\ fish\n
+comment4.params=
+comment4.target=edu.kzoo.grid.Location\ nextLocation()
+comment4.text=\ Finds\ this\ fish's\ next\ location.\n\ \ A\ fish\ may\ move\ to\ any\ empty\ adjacent\ locations\ except\ the\ one\n\ \ behind\ it\ (fish\ do\ not\ move\ backwards).\ \ If\ this\ fish\ cannot\n\ \ move,\ <code>nextLocation</code>\ returns\ its\ current\ location.\n\ \ @return\ \ \ \ the\ next\ location\ for\ this\ fish\n
+comment5.params=loc
+comment5.target=void\ generateChild(edu.kzoo.grid.Location)
+numComments=6

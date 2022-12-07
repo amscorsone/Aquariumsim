@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SlowerFish
+comment0.text=\n\ Write\ a\ description\ of\ class\ simpleFish\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=env\ loc
+comment1.target=SlowerFish(edu.kzoo.grid.Grid,\ edu.kzoo.grid.Location)
+comment1.text=\ Constructs\ a\ slowfish\ at\ the\ specified\ location\ \n\ in\ a\ given\ environment.\n
+comment2.params=env\ loc\ dir
+comment2.target=SlowerFish(edu.kzoo.grid.Grid,\ edu.kzoo.grid.Location,\ edu.kzoo.grid.Direction)
+comment2.text=\ Constructs\ a\ slowfish\n
+comment3.params=env\ loc\ dir\ col
+comment3.target=SlowerFish(edu.kzoo.grid.Grid,\ edu.kzoo.grid.Location,\ edu.kzoo.grid.Direction,\ java.awt.Color)
+comment3.text=\ Constructs\ a\ slowfish\n
+comment4.params=
+comment4.target=edu.kzoo.grid.Location\ nextLocation()
+comment5.params=loc
+comment5.target=void\ generateChild(edu.kzoo.grid.Location)
+numComments=6

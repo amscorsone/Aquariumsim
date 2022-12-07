@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-platform-console-standalone-1.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-quickcheck-core-0.9.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-jupiter-migrationsupport-5.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-platform-runner-1.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-jupiter-params-5.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-platform-testkit-1.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-jupiter-api-5.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-platform-console-1.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-jupiter-engine-5.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-platform-suite-api-1.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-vintage-engine-5.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-platform-reporting-1.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-jupiter-5.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-platform-engine-1.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-platform-launcher-1.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/junit-platform-commons-1.5.2.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/hamcrest-library-1.3.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.base.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.controls.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.fxml.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.graphics.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.media.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.properties.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.swing.jar:/private/var/folders/tm/qg9vx26j2v93wb_pfzdrhszh0000gq/T/AppTranslocation/77A193C5-5E03-4E8F-993A-73216976D1D0/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.web.jar:/Users/ericscorsone/Desktop/Cs 110/breedAndDie/+libs/grid.jar:/Users/ericscorsone/Desktop/Cs 110/breedAndDie
+-d
+/Users/ericscorsone/Desktop/Cs 110/breedAndDie/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/ericscorsone/Desktop/Cs 110/breedAndDie/mbsgui/FishDisplay.java
+<---- end of javadoc command ---->
+Loading source file /Users/ericscorsone/Desktop/Cs 110/breedAndDie/mbsgui/FishDisplay.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.10
+Building tree for all the packages and classes...
+Generating /Users/ericscorsone/Desktop/Cs 110/breedAndDie/doc/mbsgui/FishDisplay.html...
+Generating /Users/ericscorsone/Desktop/Cs 110/breedAndDie/doc/mbsgui/package-summary.html...
+Generating /Users/ericscorsone/Desktop/Cs 110/breedAndDie/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/ericscorsone/Desktop/Cs 110/breedAndDie/doc/allclasses.html...
+Generating /Users/ericscorsone/Desktop/Cs 110/breedAndDie/doc/allclasses.html...
+Generating /Users/ericscorsone/Desktop/Cs 110/breedAndDie/doc/index.html...
